@@ -3,7 +3,7 @@ entries:
   cloud2edge:
   - apiVersion: v1
     appVersion: 0.1.4
-    created: "2021-06-30T16:36:57.944480444+02:00"
+    created: "2021-06-30T16:53:07.943696561+02:00"
     dependencies:
     - name: hono
       repository: https://eclipse.org/packages/charts/
@@ -12,7 +12,7 @@ entries:
       repository: https://eclipse.org/packages/charts/
       version: ~1.5.1
     description: 'Eclipse IoT Cloud2Edge (C2E) is an integrated suite of services developers can use to build IoT applications that are deployed from the cloud to the edge. The suite currently consists of Eclipse Hono and Eclipse Ditto. '
-    digest: 04be39bc6edb57fc860e5490b7e9863f2152544ed57944a31a30d083622ecdba
+    digest: 856280a8cc9a112dabe46f4fd39ffbd673966fcdb6fcc70067cab94e6d59fa14
     home: https://eclipse.org/packages/packages/cloud2edge/
     icon: https://eclipse.org/packages/packages/cloud2edge/images/c2e-logo.svg
     keywords:
@@ -34,7 +34,7 @@ entries:
   htest:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-06-30T16:36:57.945223287+02:00"
+    created: "2021-06-30T16:53:07.944199935+02:00"
     description: A Helm chart for Kubernetes
     digest: 5bf8b1eb36eaed8539b0c0ffc314c9f13bbf003c7d25acccbc26f5480315ff6d
     name: htest
@@ -42,4 +42,4 @@ entries:
     urls:
     - https://joellehmann.github.io/helm-repo/htest-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-30T16:36:57.896618645+02:00"
+generated: "2021-06-30T16:53:07.897372457+02:00"
